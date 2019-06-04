@@ -35,7 +35,7 @@ Options are passed to [`hast-util-to-portable-text`][to-portable-text].
 
 ## Credits
 
-Heavily influenced by [`hast-util-to-portable-text`](https://github.com/syntax-tree/hast-util-to-portable-text) by [Titus Wormer](https://wooorm.com/)
+Heavily influenced by [`rehype-remark`](https://github.com/rehypejs/rehype-remark) by [Titus Wormer](https://wooorm.com/)
 
 ## License
 
