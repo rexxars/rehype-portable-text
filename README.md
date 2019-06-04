@@ -43,8 +43,8 @@ Heavily influenced by [`rehype-remark`](https://github.com/rehypejs/rehype-remar
 
 <!-- Definitions -->
 
-[build-badge]: https://img.shields.io/travis/rehypejs/rehype-portable-text.svg
-[build]: https://travis-ci.org/rehypejs/rehype-portable-text
+[build-badge]: https://img.shields.io/travis/rexxars/rehype-portable-text.svg
+[build]: https://travis-ci.org/rexxars/rehype-portable-text
 [size-badge]: https://img.shields.io/bundlephobia/minzip/rehype-portable-text.svg
 [size]: https://bundlephobia.com/result?p=rehype-portable-text
 [npm]: https://docs.npmjs.com/cli/install
