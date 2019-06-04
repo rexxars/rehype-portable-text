@@ -1,0 +1,35 @@
+{
+  "name": "rehype-portable-text",
+  "version": "0.0.2",
+  "description": "rehype plugin to transform to portable text",
+  "main": "index.js",
+  "dependencies": {
+    "hast-util-to-portable-text": "0.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-config-sanity": "^0.140.0",
+    "prettier": "^1.15.2",
+    "tap": "^14.2.1"
+  },
+  "scripts": {
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rexxars/rehype-portable-text.git"
+  },
+  "keywords": [
+    "unified",
+    "rehype",
+    "hast",
+    "portable-text"
+  ],
+  "author": "Espen Hovlandsdal <espen@hovlandsdal.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rexxars/rehype-portable-text/issues"
+  },
+  "homepage": "https://github.com/rexxars/rehype-portable-text#readme"
+}
